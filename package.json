@@ -17,7 +17,7 @@
     "recharts": "^3.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/KJanaki-12.github.io/finance-dashboard.git",
+  "homepage": "https://KJanaki-12.github.io/finance-dashboard",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
