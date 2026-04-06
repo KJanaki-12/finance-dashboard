@@ -1,6 +1,7 @@
 {
   "name": "finance-dashboard-react",
   "version": "0.1.0",
+  "homepage": "https://KJanaki-12.github.io/finance-dashboard",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
@@ -16,8 +17,7 @@
     "recharts": "^3.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://KJanaki-12.github.io/finance-dashboard",
-  "scripts": {
+    "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
