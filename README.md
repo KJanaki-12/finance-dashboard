@@ -80,5 +80,5 @@ A modern, feature-rich finance dashboard built with React.js and Bootstrap 5. Tr
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/KJanaki-12/finance-dashboard-react.git
+git clone https://github.com/KJanaki-12/finance-dashboard.git
 cd finance-dashboard-react
